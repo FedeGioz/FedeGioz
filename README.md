@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm FedeGioz</h1>
-<h3 align="center">A noob that is pasting code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fedegioz&label=Profile%20views&color=0e75b6&style=flat" alt="fedegioz" /> </p>
 
