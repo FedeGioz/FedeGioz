@@ -14,13 +14,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/FedeGioz](https://github.com/FedeGioz)
 
-- 📝 I regularly write articles on [https://fedegioz.xyz](https://fedegioz.xyz)
+- 📝 I regularly write articles on [https://federicogiordano.com](https://federicogiordano.com)
 
 - 💬 Ask me about **nothing**
 
-- 📫 How to reach me **contact@fedegioz.xyz**
+- 📫 How to reach me **contact@federicogiordano.com**
 
-- 📄 Know about my experiences [https://fedegioz.xyz](https://fedegioz.xyz)
+- 📄 Know about my experiences [https://federicogiordano.com*](https://federicogiordano.com)
 
 - ⚡ Fun fact **Idk**
 
